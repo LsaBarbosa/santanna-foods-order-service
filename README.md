@@ -1,7 +1,7 @@
 ## 💻 About project 💻
-Payment-Api is a service from the SantAnna Foods application
+Order-Api is a service from the SantAnna Foods application
 ## ⚙️ Functionalities ⚙️
-- [x] Payment CRUD;
+- [x] Order Create, Read, Update;
 
 ## 🛠 Tools 🛠
 The following technologies were used in the development of the project's Rest API:
